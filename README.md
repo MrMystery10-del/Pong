@@ -10,3 +10,10 @@ This is a Pong game created by MrMystery.
 
 Have Fun with this pong game!
 You can use and look the code i used to for it.
+
+# Extras
+- Background music
+- Sounds on collision
+- Menu Screen
+- Cool looking Gui
+- Win screen after got 10 Points
