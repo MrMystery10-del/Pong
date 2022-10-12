@@ -16,8 +16,8 @@ import front.sphere_speed.Sphere_Speed;
 public class Ball {
     
     //Coords of the Ball
-    private int x = 550;
-    private int y = 300;
+    private short x = 550;
+    private short y = 300;
 
     private int dir;
 
